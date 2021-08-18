@@ -1,6 +1,6 @@
 # Data Science Portfolio - Ivan Berlim Gonçalves
 
-## Project 6: Titanic - Machine Learning from Disaster) # Under Construction
+## Project 6: Titanic - Machine Learning from Disaster # Under Construction
 * Besides beeing a well known project int he DS world, it is helping me validate various concepts in the whole DS processes
 
 ## [Project 5: Sales Prediction](https://github.com/ivanbergon/ivanbergon/blob/main/DS%20project%20-%20Sales%20Prediction.ipynb)
