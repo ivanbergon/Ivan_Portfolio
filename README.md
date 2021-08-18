@@ -33,5 +33,6 @@
 * Selection is based by country, continent or the entire world
 * The graph representation demonstrates the absolute and relative growth of covid-19 cases
 * Used Excel basic functions and Google Data Studio
+* 
 
 
