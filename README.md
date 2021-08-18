@@ -26,7 +26,6 @@
 * Use of normalization techniques and pivoting
 
 ## [Project 1: World evolution of Covid-19 cases: Project Overview](https://datastudio.google.com/s/ouiVw0gYe_o)
-Date: 04/08/2021
 * Created a data visualization tool based on world evolution on covid-19 cases
 * Based on more than 106k lines of data
 * The graph representation demonstrates the absolute and relative growth of covid-19 cases
