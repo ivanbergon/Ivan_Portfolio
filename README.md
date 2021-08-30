@@ -2,9 +2,8 @@
 ## Data Science Portfolio
 
 ### [Project 1: Brazilian E-commerce analysis](https://nbviewer.jupyter.org/github/ivanbergon/Ivan_Portfolio/blob/main/Brazilian%20E-commerce.ipynb)
-*	Goal is to predict from the passenger's data, who will live and who will die
-*	Although being a well-known project int he DS world, it is helping me to validate design and feature engineering concepts in the DS processes
-*	Testing different Machine Learning algorithms, evaluating their performance and tuning parameters to increase model's classification
+*	Clustering, prediction and feature engineering
+*	Project is on construction, will be complete soon.
 
 ### [Project 2: Sales Prediction](https://nbviewer.jupyter.org/github/ivanbergon/Ivan_Portfolio/blob/main/Sales%20Prediction.ipynb)
 * Predictive sales model based on TV, radio and newspaper advertising investment
