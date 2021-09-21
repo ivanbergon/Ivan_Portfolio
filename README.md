@@ -1,7 +1,7 @@
 # Ivan Berlim Gonçalves
 ## Data Science Portfolio
 
-## [Project 0: Medicine Price Prediction](https://github.com/ivanbergon/Ivan_Portfolio/blob/main/Medicine%20Price%20Prediction.ipynb)
+### [Project 0: Medicine Price Prediction](https://github.com/ivanbergon/Ivan_Portfolio/blob/main/Medicine%20Price%20Prediction.ipynb)
 * Predict price of medicines based on its formulation
 * Used 7 different Machine Learning algorithms
 * Satisfatory results, but need improovement in preprocessing and algorithm otimization
