@@ -1,6 +1,12 @@
 # Ivan Berlim Gonçalves
 ## Data Science Portfolio
 
+## [Project 0: Medicine Price Prediction](https://github.com/ivanbergon/Ivan_Portfolio/blob/main/Medicine%20Price%20Prediction.ipynb)
+* Predict price of medicines based on its formulation
+* Used 7 different Machine Learning algorithms
+* Satisfatory results, but need improovement in preprocessing and algorithm otimization
+* Best Results: MAE: 59,43 R2 score: 0,092 using XGBoost, Target value Mean: 137.09
+
 ### [Project 1: Brazilian E-commerce analysis](https://nbviewer.jupyter.org/github/ivanbergon/Ivan_Portfolio/blob/main/Brazilian%20E-commerce.ipynb)
 *	Clustering, prediction and feature engineering
 *	Project is on construction, will be complete soon.
