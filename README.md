@@ -19,7 +19,7 @@
 
 ## Classification
 
-### [AirBnB Room Type Multiclass Classification in Python](https://github.com/ivanbergon/Ivan_Portfolio/blob/main/AirBnB%20Room%20Type%20Prediction.ipynb)
+### [Rio de Janeiro's Airbnb data - Room Type Multiclass Classification in Python](https://github.com/ivanbergon/Ivan_Portfolio/blob/main/AirBnB%20Room%20Type%20Prediction.ipynb)
 * Make use of multiclass classification Random Forest model to predict the class of  4 room types of 23635 observations and 74 variables
 * Chose only 4 variables to assertively predict the class of 98,4% of the data.
 * Very good model performance, but could be improved with some tuning.
