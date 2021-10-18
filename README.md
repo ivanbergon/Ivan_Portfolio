@@ -1,18 +1,16 @@
-# Ivan Berlim Gonçalves
-## Data Science Portfolio
-
-teste
+[Ivan Berlim's LinkedIn](https://www.linkedin.com/in/ivan-berlim-goncalves/?locale=en_US)
 
 ## Regression
 
-### Oil Price Prediction in R
-* 
+### [Oil Price Prediction in R](https://github.com/ivanbergon/Ivan_Portfolio/blob/main/Oil%20Price%20Prediction.pdf)
+* Predict one day ahead oil prices based on other stock indexes.
+* Used GAMLSS package and its Oil Data Set.
+* Successfully predicted 93.3% of the price values within a 1% deviation interval from the true values
+* Successfully predicted 79% of the price values within a 0.5% deviation interval from the true values.
 
 ### [Medicine Price Prediction in Python](https://github.com/ivanbergon/Ivan_Portfolio/blob/main/Medicine%20Price%20Prediction.ipynb)
-* Predict price of medicines based on its formulation
-* Used 7 different Machine Learning algorithms
+* Predict price of medicines based on its formulation using 7 different Machine Learning algorithms
 * Satisfatory results, but used wrong strategy on preprocessing. Better results would be achieved using One Hot Encoding
-* Best Results: MAE: 59,43 R2 score: 0,092 using XGBoost, Target value Mean: 137.09
 
 ### [Sales Prediction in Python](https://nbviewer.jupyter.org/github/ivanbergon/Ivan_Portfolio/blob/main/Sales%20Prediction.ipynb)
 * Predictive sales model based on TV, radio and newspaper advertising investment
@@ -21,8 +19,10 @@ teste
 
 ## Classification
 
-### AirBnB Room Type Multiclass Classification in Python
-* 
+### [AirBnB Room Type Multiclass Classification in Python](https://github.com/ivanbergon/Ivan_Portfolio/blob/main/AirBnB%20Room%20Type%20Prediction.ipynb)
+* Make use of multiclass classification Random Forest model to predict the class of  4 room types of 23635 observations and 74 variables
+* Chose only 4 variables to assertively predict the class of 98,4% of the data.
+* Very good model performance, but could be improved with some tuning.
 
 ## Data Analysis
 
@@ -37,8 +37,10 @@ teste
 
 ## Data Pipeline
 
-### Data Pipeline for Oil Price Prediction in R
-* 
+### [Data Preparation Pipeline in R](https://github.com/ivanbergon/Ivan_Portfolio/blob/main/Oil%20Pipeline.pdf)
+* Design and implement an entire data preparation pipeline in R
+* Based on GAMLSS Package and its Oil Data Set.
+* Pipeline to add new Drivers and to make user-specified transformations on data.
 
 ## Recommendation System
 
@@ -56,7 +58,7 @@ teste
 
 ## Data Visualization
 
-### [World evolution of Covid-19 cases: Project Overview in Python](https://datastudio.google.com/s/ouiVw0gYe_o)
+### [World evolution of Covid-19 cases: Project Overview](https://datastudio.google.com/s/ouiVw0gYe_o)
 *	Created a data visualization tool representing the covid-19 cases evolution around the world
 *	Selection is based by country, continent or the entire world
 *	The graph representation demonstrates the absolute and relative growth of covid-19 cases
