@@ -1,5 +1,35 @@
 [Ivan Berlim's LinkedIn](https://www.linkedin.com/in/ivan-berlim-goncalves/?locale=en_US)
 
+# Professional Projects
+
+## Data Engineering
+
+### Data Lake and Data Pipeline structuring
+- Achievements: I have architected and executed an end-to-end Data Engineering project, aggregating and structuring a Data Lake. The first step was to discover, analyze and clean the data, which I proceeded with using Python. Then I mapped all the possible applications of this data with the stakeholders and created a MySQL database in a cloud environment. The data was now available to whoever needed it and had considerably shortened the time of acquiring data, besides, it helped to standardize the data across the company, assuring data quality and fidelity. In addition, when I came across with some data inconsistency, I suggested process changes to the data acquiring areas, improving consistency.
+- Challenges: I came across numerous challenges in this project since I had little to no knowledge of data engineering, such as different data sources (**sales, customers, invoicing, products and leads**) and extremely inconsistent data. I got over this challenge with a lot of talk with the data stakeholders and study.
+
+## Data Science and Analytics
+
+### Customer Segmentation
+- Achievements: I've worked on various DS and DA projects, some designed to solve punctual business problems and others with a wider scope, impacting the company's interface with external stakeholders. One of the big projects I worked on was Customer Segmentation. The company had a very poor customer segmentation model. I then analyzed the existing model and studied alternatives in search of inside and external data of our customers. I came across a model that primarily used an external government database of companies' capital and field of work. I then used this information to segment the customers into three categories inside their company field, based on their capital. After that, I look at internal data to fine-tune the model based on their spending inside the company. As I recently implanted this project, I still had no useful time to measure its impact on business. But it already had some real improvements in **distributing the customers to the right sales representatives** based on company size and segment.
+- Challenges: Little to no IT spending data of Brazil's companies. I was responsible for an end-to-end delivery and it was challenging for me as a new data science professional to learn and apply all the different required knowledge. But it was pleasing to know that the companies head's liked the preliminary results.
+
+
+### Clustering and Regression models
+- Achievements: I designed a clustering model to group similar customers by their behavior using **K-means** in R. After building the **Recency, Frequency, and Monetary** model I used it to classify customers into 5 classes, which supported the Commercial and Marketing areas to create different strategies in pursuing to increase leads retention and total revenue. Also, I built a sales prediction model using a **Linear Regression** algorithm to predict sales with **90% accuracy** using feature engineering and algorithm optimization to, again, support Sales strategy and building goals.
+- Challenges: choosing the algorithm, building statistics hypothesis tests, and preprocessing were highly constructive challenges to improve the model's performance.
+
+
+## Data Visualization
+
+### Power BI Dashboards
+- Achievements: Since I was responsible for an end-to-end data department, I had a good and wide view of how the data is created, treated, analyzed, and deployed as information/knowledge. As responsible for studies and dashboard productions I chose the data visualization software/style depending on the expected result. Most of the time I deployed using Power BI, working and improving my DAX language and data visualization abilities. I notably noticed that after reading the book "Storytelling With Data", by Cole Nussbaumer, skills had an exponential increase. I delivered several dashboards highly praised by the business areas, always thinking in the context, most adequate visual, saturation, gestalt principles, and design thinking. I designed dashboards to monitor **goals, sales, customer journey, churn, customer lifetime value, COHORT analysis and demand forecast**.
+- Challenges: The DAX/M syntaxes were a little bit challenging for me at the beginning, such as summarizing information to not overwhelm the client with information. But as I worked on different projects and deliveries, I learned to always check with the business areas what was the most important information for them to visualize, and as my analytic capacity increased, I achieved a good balance between what the business areas asked and what were my findings when analyzing the data.
+
+
+
+# Personal Projects
+
 ## Regression
 
 ### [Oil Price Prediction in R](https://github.com/ivanbergon/Ivan_Portfolio/blob/main/Oil%20Price%20Prediction.pdf)
