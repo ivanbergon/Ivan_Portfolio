@@ -16,7 +16,7 @@
 
 
 ### Clustering and Regression models
-- Achievements: I designed a clustering model to group similar customers by their behavior using **K-means** in R. After building the **Recency, Frequency, and Monetary** model I used it to classify customers into 5 classes, which supported the Commercial and Marketing areas to create different strategies in pursuing to increase leads retention and total revenue. Also, I built a sales prediction model using a **Linear Regression** algorithm to predict sales with **90% accuracy** using feature engineering and algorithm optimization to, again, support Sales strategy and building goals.
+- Achievements: I designed a clustering model to group similar customers by their behavior using **K-means** in R. After building the **Recency, Frequency, and Monetary** model I used it to classify customers into 5 classes, which supported the Commercial and Marketing areas to create different strategies in pursuing to increase leads retention and total revenue. Also, I'm currently builting a sales prediction model using **Regression** algorithms to predict sales. At the moment I'm evaluating different models and different strategies using feature engineering and algorithm optimization to, again, support Sales strategy and building goals.
 - Challenges: choosing the algorithm, building statistics hypothesis tests, and preprocessing were highly constructive challenges to improve the model's performance.
 
 
